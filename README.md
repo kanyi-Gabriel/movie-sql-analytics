@@ -1,6 +1,6 @@
 # 🎬 Movie Database SQL Exploration
 
-This project explores a movie database using **SQL** to answer a series of real-world queries related to movies, actors, genres, awards, and production data. The goal is to sharpen SQL querying skills by solving 12 diverse questions that test knowledge in filtering, aggregation, joins, string manipulation, and subqueries.
+This project explores a movie database using **SQL** to answer a series of real-world queries related to movies, actors, genres, awards, and production data. The goal is answer questions related to SQL database by filtering, aggregation, joins, string manipulation, and subqueries.
 
 The SQLite Database used for this purpose is loaded together with the project file
 
@@ -58,4 +58,16 @@ To run or replicate these queries:
 
 
 ---
+## Sample query
+``` sql
+%%sql
+-- 1. Who won the Oscar for “Actor in a Leading Role” in 2015?
+SELECT * 
+FROM oscars
+WHERE winner = 1.0
+and
+      year = 2015   
+and 
+    award = "Actor in a Leading Role"
+limit 5
 
