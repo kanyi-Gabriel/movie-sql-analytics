@@ -9,11 +9,11 @@ The SQLite Database used for this purpose is loaded together with the project fi
 ## Requirements to run the project
 ### How to run the project on Jupyter Notebook
 
-#####🧾 Beginner-Friendly MySQL Setup in Jupyter Notebook
+##### 🧾 Beginner-Friendly MySQL Setup in Jupyter Notebook
 This guide helps you set up a connection to a local MySQL database using Jupyter Notebook. You’ll be able to test the connection and confirm everything is working by viewing a table.
 
 
-#####✅ Step 1: Install Required Packages
+##### ✅ Step 1: Install Required Packages
 
 **Run this code block in a Jupyter Notebook cell:**
 
