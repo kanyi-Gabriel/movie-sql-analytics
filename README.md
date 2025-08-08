@@ -6,6 +6,9 @@ The SQLite Database used for this purpose is loaded together with the project fi
 
 ---
 
+## Requirements to run the project
+### How to run the project on Jupyter Notebook
+
 ## 📂 Project Structure
 
 - SQL queries are written using standard SQL (compatible with MySQL).
