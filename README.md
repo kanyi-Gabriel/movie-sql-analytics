@@ -23,6 +23,9 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
       - !pip install prettytable==0.7.2
       - !pip install SQLAlchemy==1.4.49
 
+👉 Once the installation is done, it's a good idea to restart the kernel before continuing. This ensures all packages load properly.
+
+
 
 ## 📂 Project Structure
 
