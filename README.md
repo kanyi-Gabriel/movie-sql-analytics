@@ -6,13 +6,13 @@ The SQLite Database used for this purpose is loaded together with the project fi
 
 ---
 
-## Requirements to run the project on Jupyter Notebook
+## Getting Started (Requirements to run the project on Jupyter Notebook)
 
-##### 🧾 Beginner-Friendly MySQL Setup in Jupyter Notebook
+##### Beginner-Friendly MySQL Setup in Jupyter Notebook
 This guide helps you set up a connection to a local MySQL database using Jupyter Notebook. You’ll be able to test the connection and confirm everything is working by viewing a table.
 
 
-##### ✅ Step 1: Install Required Packages
+#####  Step 1: Install Required Packages
 
 **Run this code block in a Jupyter Notebook cell:**
 
@@ -35,7 +35,7 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 
 ---
 
-## ✅ Questions Answered
+## Questions Answered
 
 1. **🏆 Who won the Oscar for “Actor in a Leading Role” in 2015?**
 2. **🎥 What query will produce the ten oldest movies in the database?**
@@ -52,7 +52,7 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **SQL** for querying
 - **Movie database** (SQLite)
@@ -60,22 +60,7 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 
 ---
 
-## 🚀 Getting Started
 
-To run or replicate these queries:
-
-1. Import the movie database into your SQL environment (e.g., PostgreSQL, MySQL).
-2. Open your SQL editor and run the queries available in this repository.
-3. Ensure your database schema aligns with assumed table structures: `movies`, `oscars`, `genres`, `actors`, `keywords`, `production_companies`.
-
----
-
-## 📌 Highlights & Learnings
-
-- Practiced real-world SQL filtering and pattern matching with `LIKE`, `ILIKE`.
-- Used `JOIN`, `GROUP BY`, and `HAVING` to solve aggregation problems.
-- Explored subqueries and ordering for top results and rankings.
-- Analyzed actor roles, gender-based queries, and genre-based analytics.
 
 
 ---
