@@ -44,13 +44,6 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 11. **📉 Which genre has, on average, the lowest movie popularity score?**
 12. **🎓 Which award category has the highest number of actor nominations?**
 
----
-
-
----
-
-
-
 
 ---
 ## Sample query
