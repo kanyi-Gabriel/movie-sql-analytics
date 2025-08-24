@@ -27,12 +27,6 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 
 
 
-## 📂 Project Structure
-
-- SQL queries are written using standard SQL (compatible with MySQL).
-- Each query answers a specific business or data-driven question using the movie database.
-- The dataset contains tables like `movies`, `oscars`, `actors`, `genres`, `production_companies`, and `keywords`.
-
 ---
 
 ## Questions Answered
