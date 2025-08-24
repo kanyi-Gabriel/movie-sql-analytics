@@ -1,4 +1,4 @@
-# 🎬 Movie Database SQL Exploration
+#  Movie Database SQL Exploration
 
 This project explores a movie database using **SQL** to answer a series of real-world queries related to movies, actors, genres, awards, and production data. The goal is answer questions related to SQL database by filtering, aggregation, joins, string manipulation, and subqueries.
 
@@ -46,11 +46,6 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 
 ---
 
-## Technologies Used
-
-- **SQL** for querying
-- **Movie database** (SQLite)
-- **GitHub** for version control and project sharing
 
 ---
 
