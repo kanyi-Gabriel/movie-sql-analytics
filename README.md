@@ -31,18 +31,18 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 
 ## Questions Answered
 
-1. ** Who won the Oscar for “Actor in a Leading Role” in 2015?**
-2. ** What query will produce the ten oldest movies in the database?**
-3. ** How many unique awards are there in the Oscars table?**
-4. ** How many movies are there that contain the word “Spider” within their title?**
-5. ** How many movies are there that are both in the "Thriller" genre and contain the word “love” in their keywords?**
-6. ** How many movies were released between `2006-08-01` and `2009-10-01` with a popularity score > 40 and budget < 50 million?**
-7. ** How many unique characters has *Vin Diesel* played in the database?**
-8. ** What are the genres of the movie “The Royal Tenenbaums”?**
-9. ** What are the top 3 production companies with the highest average movie popularity score?**
-10. ** How many female actors (gender = 1) have names starting with the letter "N"?**
-11. ** Which genre has, on average, the lowest movie popularity score?**
-12. ** Which award category has the highest number of actor nominations?**
+1. **Who won the Oscar for “Actor in a Leading Role” in 2015?**
+2. **What query will produce the ten oldest movies in the database?**
+3. **How many unique awards are there in the Oscars table?**
+4. **How many movies are there that contain the word “Spider” within their title?**
+5. **How many movies are there that are both in the "Thriller" genre and contain the word “love” in their keywords?**
+6. **How many movies were released between `2006-08-01` and `2009-10-01` with a popularity score > 40 and budget < 50 million?**
+7. **How many unique characters has *Vin Diesel* played in the database?**
+8. **What are the genres of the movie “The Royal Tenenbaums”?**
+9. **What are the top 3 production companies with the highest average movie popularity score?**
+10. **How many female actors (gender = 1) have names starting with the letter "N"?**
+11. **Which genre has, on average, the lowest movie popularity score?**
+12. **Which award category has the highest number of actor nominations?**
 
 
 ---
