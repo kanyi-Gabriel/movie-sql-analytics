@@ -16,16 +16,14 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 
 **Run this code block in a Jupyter Notebook cell:**
 
-      - !pip install ipython-sql==0.4.1
-      - !pip install pymysql
-      - !pip install mysql-connector-python
-      - !pip install cryptography
-      - !pip install prettytable==0.7.2
-      - !pip install SQLAlchemy==1.4.49
+       !pip install ipython-sql==0.4.1
+       !pip install pymysql
+       !pip install mysql-connector-python
+       !pip install cryptography
+       !pip install prettytable==0.7.2
+       !pip install SQLAlchemy==1.4.49
 
  Once the installation is done, it's a good idea to restart the kernel before continuing. This ensures all packages load properly.
-
-
 
 ---
 
