@@ -24,7 +24,6 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 
  Once the installation is done, it's a good idea to restart the kernel before continuing. This ensures all packages load properly.
 
----
 
 ## Questions Answered
 
@@ -42,7 +41,7 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 12. **Which award category has the highest number of actor nominations?**
 
 
----
+
 ## Sample query
 ``` sql
 %%sql
