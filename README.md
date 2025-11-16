@@ -4,7 +4,6 @@ This project explores a movie database using **SQL** to answer a series of real-
 
 The SQLite Database used for this purpose is loaded together with the project file
 
----
 
 ## Getting Started (Requirements to run the project on Jupyter Notebook)
 
