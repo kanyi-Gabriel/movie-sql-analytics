@@ -15,7 +15,8 @@ This guide helps you set up a connection to a local MySQL database using Jupyter
 
 #####  Step 1: Install Required Packages
 
-**Run this code block in a Jupyter Notebook cell:**
+**Run this code block in a Jupyter Notebook cell:** 
+*(Please don't change ther versions for compatibility)*
 
        !pip install ipython-sql==0.4.1
        !pip install pymysql
